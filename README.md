@@ -1,13 +1,1 @@
-AES128
-======
-
-AES-128 Encryption and Decryption (both CBC and CTR) in JavaScript
-
-CBC (Cipher Block Chaining):
-* AESCBC_Encrypt()
-* AESCBC_Decrypt()
-
-CTR (Counter mode):
-* AESCTR_Encrypt()
-* AESCTR_Decrypt()
-
+AES128 decryption (both CBC and CTR) build in node.js
